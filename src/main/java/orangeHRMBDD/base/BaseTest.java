@@ -35,6 +35,8 @@ public class BaseTest {
             driver = new ChromeDriver();
         }
         else if (browserName.equalsIgnoreCase("firefox")){
+            System.setProperty("webdriver.gecko.driver", "C:/Users/Ravinder Reddy/Documents/Testing/" +
+                    "geckodriver-v0.19.1-win64/geckodriver.exe");
             driver = new FirefoxDriver();
         }
 
