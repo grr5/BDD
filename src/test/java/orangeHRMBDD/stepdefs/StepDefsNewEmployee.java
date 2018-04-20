@@ -15,7 +15,7 @@ import java.io.IOException;
 public class StepDefsNewEmployee extends BaseTest {
     LoginPage loginPage;
 
-    //Admin Login stepdefs //test
+    //Admin Login stepdefs //test1
 
     @Given("^admin is on login page$")
     public void admin_is_on_login_page() {
