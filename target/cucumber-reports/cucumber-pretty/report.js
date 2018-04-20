@@ -133,21 +133,21 @@ formatter.match({
   "location": "StepDefsNewEmployee.admin_is_logged_in_and_is_on_homepage()"
 });
 formatter.result({
-  "duration": 23984983945,
+  "duration": 25514339182,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefsNewEmployee.admin_click_on_pim_link()"
 });
 formatter.result({
-  "duration": 5527833078,
+  "duration": 1219709159,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefsNewEmployee.admin_clicked_on_add_employee_button()"
 });
 formatter.result({
-  "duration": 725054805,
+  "duration": 807824886,
   "status": "passed"
 });
 formatter.match({
@@ -164,14 +164,14 @@ formatter.match({
   "location": "StepDefsNewEmployee.admin_enters_new_employee_with(String,String)"
 });
 formatter.result({
-  "duration": 2204873114,
+  "duration": 2191430582,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefsNewEmployee.admin_can_add_more_details()"
 });
 formatter.result({
-  "duration": 2305960342,
+  "duration": 1920399035,
   "status": "passed"
 });
 formatter.scenario({
@@ -221,21 +221,21 @@ formatter.match({
   "location": "StepDefsNewEmployee.admin_is_logged_in_and_is_on_homepage()"
 });
 formatter.result({
-  "duration": 26533101967,
+  "duration": 10212038555,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefsNewEmployee.admin_click_on_pim_link()"
 });
 formatter.result({
-  "duration": 1593764373,
+  "duration": 1574258038,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefsNewEmployee.admin_clicked_on_add_employee_button()"
 });
 formatter.result({
-  "duration": 639139365,
+  "duration": 927037107,
   "status": "passed"
 });
 formatter.match({
@@ -252,14 +252,14 @@ formatter.match({
   "location": "StepDefsNewEmployee.admin_enters_new_employee_with(String,String)"
 });
 formatter.result({
-  "duration": 2121300919,
+  "duration": 1919459517,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefsNewEmployee.admin_can_add_more_details()"
 });
 formatter.result({
-  "duration": 1837771220,
+  "duration": 2149155223,
   "status": "passed"
 });
 formatter.scenario({
@@ -309,21 +309,21 @@ formatter.match({
   "location": "StepDefsNewEmployee.admin_is_logged_in_and_is_on_homepage()"
 });
 formatter.result({
-  "duration": 13244645992,
+  "duration": 22826991581,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefsNewEmployee.admin_click_on_pim_link()"
 });
 formatter.result({
-  "duration": 1367425733,
+  "duration": 3085572584,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefsNewEmployee.admin_clicked_on_add_employee_button()"
 });
 formatter.result({
-  "duration": 683720333,
+  "duration": 790163468,
   "status": "passed"
 });
 formatter.match({
@@ -340,14 +340,14 @@ formatter.match({
   "location": "StepDefsNewEmployee.admin_enters_new_employee_with(String,String)"
 });
 formatter.result({
-  "duration": 1967703150,
+  "duration": 2274619808,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefsNewEmployee.admin_can_add_more_details()"
 });
 formatter.result({
-  "duration": 2044354409,
+  "duration": 2304075131,
   "status": "passed"
 });
 });
